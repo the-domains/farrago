@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Farrago]]></title>
         <description><![CDATA[Farrago]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/farrago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 22:57:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 23:20:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/farrago/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f0cb68a-57f2-4337-b075-9c603198cff2.jpg">]]></description>
+            <link>https://thegrid.ai/farrago/maisie/index.html</link>
+            <guid isPermaLink="false">329a745f-f52e-4724-819a-5ba6b6c96d8d</guid>
+            <pubDate>Sun, 01 May 2016 23:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Farrago means a hodgepodge. That is pretty much what this site will be.I will not be limited to one thing. I plan to primarily post restaurant reviews and now that I am about to retire, I also plan to document my various travels. And of course, I will add anything else that suits my fancy. </p>]]></description>
-            <link>undefinedfarrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html</link>
+            <link>https://thegrid.ai/farrago/farrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html</link>
             <guid isPermaLink="false">584338c7-c218-42e9-9e61-cf8ab18b9074</guid>
             <pubDate>Sun, 01 May 2016 22:57:50 GMT</pubDate>
         </item>
