@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Farrago]]></title>
+        <description><![CDATA[Farrago]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 22:57:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Farrago means a hodgepodge. That is pretty much what this site will be.I will not be limited to one thing. I plan to primarily post restaurant reviews and now that I am about to retire, I also plan to document my various travels. And of course, I will add anything else that suits my fancy. </p>]]></description>
+            <link>undefinedfarrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html</link>
+            <guid isPermaLink="false">584338c7-c218-42e9-9e61-cf8ab18b9074</guid>
+            <pubDate>Sun, 01 May 2016 22:57:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
