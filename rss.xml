@@ -4,8 +4,15 @@
         <description><![CDATA[Farrago]]></description>
         <link>https://thegrid.ai/farrago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 19:48:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/farrago/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Farrago means a hodgepodge. That is pretty much what this site will be.I will not be limited to one thing. I plan to primarily post restaurant reviews and now that I am about to retire, I also plan to document my various travels. And of course, I will add anything else that suits my fancy. </p>]]></description>
+            <link>https://thegrid.ai/farrago/farrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html</link>
+            <guid isPermaLink="false">584338c7-c218-42e9-9e61-cf8ab18b9074</guid>
+            <pubDate>Tue, 10 May 2016 19:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gemma]]></title>
             <description><![CDATA[<p>Our next venture was to Gemma (2323 North Henderson, Ste. 109) One thing I love about our group is that most of us will try about anything. On our trip to Gemma, I had Crispy Veal Sweetbreads with whole grain mustard for an appetizer and braised Veal cheeks for the entree. Definitely a place to return to.</p>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/farrago/nona-dallas/index.html</link>
             <guid isPermaLink="false">5c234072-d5e5-4920-96ff-557b7b7928d7</guid>
             <pubDate>Sat, 07 May 2016 22:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Farrago means a hodgepodge. That is pretty much what this site will be.I will not be limited to one thing. I plan to primarily post restaurant reviews and now that I am about to retire, I also plan to document my various travels. And of course, I will add anything else that suits my fancy. </p>]]></description>
-            <link>https://thegrid.ai/farrago/farrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html</link>
-            <guid isPermaLink="false">584338c7-c218-42e9-9e61-cf8ab18b9074</guid>
-            <pubDate>Sun, 01 May 2016 22:57:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
