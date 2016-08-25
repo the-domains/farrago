@@ -1,8 +1,8 @@
 ---
 id: 01f4db40-571c-4f24-90dd-860ec521bbb4
-dateModified: '2016-08-25T10:42:05.801Z'
+dateModified: '2016-08-25T10:43:11.409Z'
 title: Restaurant Week
-datePublished: '2016-08-25T10:42:06.067Z'
+datePublished: '2016-08-25T10:43:11.780Z'
 author: []
 description: >-
   Once a year, many restaurants in the Dallas area, offer a special menu where
