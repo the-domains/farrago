@@ -4,7 +4,7 @@
         <description><![CDATA[Farrago]]></description>
         <link>https://thegrid.ai/farrago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 00:15:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/farrago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Restaurant Reviews]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/farrago/i-am-going-to-do-some-quick-reviews-of-some-of-the-places-ou/index.html</link>
             <guid isPermaLink="false">65f347bb-27a3-43f4-b4ad-b1ddbc6efec8</guid>
             <pubDate>Thu, 25 Aug 2016 00:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nona Dallas]]></title>
-            <description><![CDATA[<p>One of the first places we visited and loved was Nona's (4115 Lomo Alto Dr.) Great Italian food. Except for a few standards, their menu changes regularly. Their pasta and pizza are exceptional. When the group went a year or so ago, I had Iberico Lardo on a crostini and a raviolo with an egg on top. Absolutely perfect.</p>]]></description>
-            <link>https://thegrid.ai/farrago/nona-dallas/index.html</link>
-            <guid isPermaLink="false">5c234072-d5e5-4920-96ff-557b7b7928d7</guid>
-            <pubDate>Sat, 07 May 2016 22:23:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
