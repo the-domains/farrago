@@ -1,24 +1,21 @@
 ---
-datePublished: '2016-08-25T00:14:47.071Z'
-sourcePath: >-
-  _posts/2016-05-07-i-am-going-to-do-some-quick-reviews-of-some-of-the-places-ou.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-dateModified: '2016-08-25T00:14:46.797Z'
+id: 65f347bb-27a3-43f4-b4ad-b1ddbc6efec8
+dateModified: '2016-08-25T00:30:30.068Z'
 title: Restaurant Reviews
-publisher: {}
+datePublished: '2016-08-25T00:30:30.381Z'
+author: []
 description: >-
   I am going to do some quick reviews of some of the places our dining group has
   visited and enjoyed. If I get a chance, I shall add pictures later.
-inLanguage: null
-inNav: false
+publisher: {}
 via: {}
 starred: false
-url: i-am-going-to-do-some-quick-reviews-of-some-of-the-places-ou/index.html
-_type: Article
+sourcePath: >-
+  _posts/2016-05-07-i-am-going-to-do-some-quick-reviews-of-some-of-the-places-ou.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Restaurant Reviews
