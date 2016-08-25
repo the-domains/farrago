@@ -1,8 +1,8 @@
 ---
 id: f78cc363-998a-4890-99cf-64e822af9691
-dateModified: '2016-08-25T00:14:16.677Z'
+dateModified: '2016-08-25T00:30:37.745Z'
 title: Gemma
-datePublished: '2016-08-25T00:14:16.953Z'
+datePublished: '2016-08-25T00:30:38.069Z'
 author: []
 description: >-
   Our next venture was to Gemma (2323 North Henderson, Ste. 109) One thing I
