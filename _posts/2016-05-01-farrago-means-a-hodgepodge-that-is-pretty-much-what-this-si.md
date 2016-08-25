@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T00:03:48.799Z'
+datePublished: '2016-08-25T00:07:19.757Z'
 sourcePath: >-
   _posts/2016-05-01-farrago-means-a-hodgepodge-that-is-pretty-much-what-this-si.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T00:03:48.332Z'
+dateModified: '2016-08-25T00:07:19.516Z'
 title: Farrago
 publisher: {}
 description: >-
@@ -23,7 +23,8 @@ url: farrago-means-a-hodgepodge-that-is-pretty-much-what-this-si/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1ffc7ff-dba5-4464-89c0-8a6171b1af2f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cb9296a-b8db-4c01-aa75-7b31c33b8737.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a1a930-7ac3-4e5d-aaec-c61e2c686e85.jpg)
 
 # Farrago
 
