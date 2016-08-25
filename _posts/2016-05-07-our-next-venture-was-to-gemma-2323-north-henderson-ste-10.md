@@ -1,24 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Our next venture was to Gemma (2323 North Henderson, Ste. 109) One thing I love about our group is that most of us will try about anything. On our trip to Gemma, I had Crispy Veal Sweetbreads with whole grain mustard for an appetizer and braised Veal cheeks for the entree. Definitely a place to return to.'
-datePublished: '2016-05-08T10:10:39.702Z'
-dateModified: '2016-05-08T10:10:39.089Z'
-title: ''
+id: f78cc363-998a-4890-99cf-64e822af9691
+dateModified: '2016-08-25T00:14:16.677Z'
+title: Gemma
+datePublished: '2016-08-25T00:14:16.953Z'
 author: []
-sourcePath: _posts/2016-05-07-our-next-venture-was-to-gemma-2323-north-henderson-ste-10.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+description: >-
+  Our next venture was to Gemma (2323 North Henderson, Ste. 109) One thing I
+  love about our group is that most of us will try about anything. On our trip
+  to Gemma, I had Crispy Veal Sweetbreads with whole grain mustard for an
+  appetizer and braised Veal cheeks for the entree. Definitely a place to return
+  to.
+publisher: {}
+via: {}
 starred: false
-url: our-next-venture-was-to-gemma-2323-north-henderson-ste-10/index.html
-_type: Article
+sourcePath: _posts/2016-05-07-our-next-venture-was-to-gemma-2323-north-henderson-ste-10.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
+# Gemma
+
 Our next venture was to Gemma (2323 North Henderson, Ste. 109) One thing I love about our group is that most of us will try about anything. On our trip to Gemma, I had Crispy Veal Sweetbreads with whole grain mustard for an appetizer and braised Veal cheeks for the entree. Definitely a place to return to.
