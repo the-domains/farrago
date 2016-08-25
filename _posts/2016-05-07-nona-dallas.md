@@ -1,8 +1,8 @@
 ---
 id: 5c234072-d5e5-4920-96ff-557b7b7928d7
-dateModified: '2016-08-25T00:30:44.164Z'
+dateModified: '2016-08-25T10:55:18.932Z'
 title: Nonna’s
-datePublished: '2016-08-25T00:30:44.506Z'
+datePublished: '2016-08-25T10:55:19.703Z'
 author: []
 description: >-
   One of the first places we visited and loved was Nonna's (4115 Lomo Alto Dr.)
