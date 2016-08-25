@@ -1,8 +1,8 @@
 ---
 id: 65f347bb-27a3-43f4-b4ad-b1ddbc6efec8
-dateModified: '2016-08-25T00:30:30.068Z'
+dateModified: '2016-08-25T10:55:08.565Z'
 title: Restaurant Reviews
-datePublished: '2016-08-25T00:30:30.381Z'
+datePublished: '2016-08-25T10:55:08.894Z'
 author: []
 description: >-
   I am going to do some quick reviews of some of the places our dining group has
